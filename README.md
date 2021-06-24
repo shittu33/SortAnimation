@@ -1,3 +1,6 @@
+## Better Reame
+
+https://www.programmersought.com/article/8855519116/
 ## 前言
 最近在学习基础的排序算法，发现仅凭算法的定义公式，即使结合代码在IDE下debug查看数组变化，也依然不是很好的理解，于是就在网上搜索排序算法动画，果然已经有人实现了排序演示，有java实现的，有JS实现，但很想在android手机上看简单演示，最终找到了，[ukhanoff/AndroidSortAnimation](https://github.com/ukhanoff/AndroidSortAnimation)，一个国际友人，用android实现了基础的冒泡排序法。（左边为他的实现效果，右侧为我的实现效果）
 
